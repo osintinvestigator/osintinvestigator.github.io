@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://osintinvestigator.github.io/sitemap.xml
 Sitemap: https://osintinvestigator.github.io/osint/sitemap.xml
